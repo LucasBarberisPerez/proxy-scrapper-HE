@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# Resultados generados por el script
+selected_proxies.txt
+selected_proxies.json
+proxies.txt
+proxychains_config.txt
